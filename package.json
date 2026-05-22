@@ -1,0 +1,13 @@
+{
+  "name": "git-ai-cli",
+  "version": "1.0.0",
+  "description": "AI-powered git commit message generator and workflow automation CLI",
+  "type": "module",
+  "main": "bin/cli.js",
+  "bin": {
+    "git-ai": "./bin/cli.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
