@@ -149,8 +149,8 @@ Return ONLY the raw commit message text. No markdown, no quotes.
     }
 
     console.log("\n🧠 Commit Message:\n");
-    console.log(`"${message}"`);
-
+    console.log(message);
+    
     if (config.dryRun) {
         console.log("\n✨ Dry run mode: Commit message generated but no actions taken.");
     } else if (config.autoCommit) {
