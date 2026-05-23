@@ -1,12 +1,23 @@
 {
   "name": "git-ai-cli",
   "version": "1.0.0",
-  "description": "AI-powered git commit message generator and workflow automation CLI",
+  "description": "An automated CLI tool that analyzes your git diff and generates production-ready Conventional Commits using AI.",
   "type": "module",
   "main": "bin/cli.js",
   "bin": {
     "git-ai": "./bin/cli.js"
   },
+  "keywords": [
+    "git",
+    "ai",
+    "commit",
+    "automation",
+    "cli",
+    "conventional-commits",
+    "openrouter"
+  ],
+  "author": "Muhammed Abdullah",
+  "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
   }
