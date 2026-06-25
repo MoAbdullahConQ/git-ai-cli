@@ -178,14 +178,17 @@ git-ai-cli/
 
 ---
 
-# 📄 License
-
-MIT License.
-
-Created with 🔥 by Muhammad Abdullah.
-
----
-
 # 🌟 GitHub Repository
 
 https://github.com/MoAbdullahConQ/git-ai-cli
+
+---
+
+# 📄 License
+
+This project is open-source and licensed under the **MIT License**.
+
+---
+<div align="center">
+  <sub>Built with ❤️ by <a href="https://github.com/MoAbdullahConQ">Muhammed Abdullah</a></sub>
+</div>
